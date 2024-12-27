@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hello! I'm a passionate UI Developer with over 3.5 years of experience in crafting dynamic and responsive web applications. My expertise lies in modern web technologies, including HTML5, CSS3, JavaScript, and Angular, allowing me to create seamless user experiences while adhering to strict W3C standards.<br><br>Throughout my career, I’ve successfully developed Single Page Applications (SPAs) and hybrid Progressive Web Apps (PWAs), with a strong focus on performance and accessibility. I’m well-versed in using frameworks like Angular, Ionic, and Spring Boot, along with state management tools like Redux and NGRX to create efficient, maintainable code.
+Hello! I'm a passionate UI Developer with over 4 years of experience in crafting dynamic and responsive web applications. My expertise lies in modern web technologies, including HTML5, CSS3, JavaScript, and Angular, allowing me to create seamless user experiences while adhering to strict W3C standards.<br><br>Throughout my career, I’ve successfully developed Single Page Applications (SPAs) and hybrid Progressive Web Apps (PWAs), with a strong focus on performance and accessibility. I’m well-versed in using frameworks like Angular, Ionic, and Spring Boot, along with state management tools like Redux and NGRX to create efficient, maintainable code.
 
 
 ## 🌐 Socials:
